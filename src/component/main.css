@@ -1,0 +1,89 @@
+.main{
+    background-color: rgb(233, 234, 235);
+    display: flex;
+    padding:40px 50px ;
+    text-align: left;
+    margin-top: 3%;
+   
+  
+ 
+}
+
+.filters{
+    border: 1px solid rgb(172, 173, 173);
+    padding: 40px 50px;
+    background-color: white;
+    border-radius: 50px;
+    opacity: 70%;
+    width: 380px;
+
+    
+   
+    
+    
+}
+
+.filters:hover{
+    box-shadow: 0 5px 15px rgba(15, 15, 15, 0.6);
+
+}
+
+
+
+  
+    
+
+#price
+ {
+    margin: 0.4rem;
+    height: 2px;
+    
+}
+#sqFeet{
+    height: 2px;
+
+}
+#appliedFiltes{
+    color: black;
+
+    display: flex;
+    flex-direction: row;
+}
+.properties{
+    margin: 10px 30px;
+    display: flex;
+    color: black;
+    background-color: white;
+    border-radius: 30px;
+    max-height: 350px;
+    max-width: 850px;
+
+}
+.properties:hover{
+    box-shadow: 0 5px 15px rgba(15, 15, 15, 0.6);
+
+}
+img{
+    border-radius: 30px;
+}
+#heading{
+    color: black;
+}
+#sub{
+    display: flex;
+   color: rgb(8, 8, 8);
+    justify-content: space-around;
+}
+h2{
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#info{
+    font-weight: 100;
+}
+.filters input{
+    color: #04B09E;
+}
